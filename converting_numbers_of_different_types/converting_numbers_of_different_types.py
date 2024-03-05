@@ -1,12 +1,3 @@
-#CEFSA - Centro Educacional da Fundação Salvador Arena
-#FESA - Faculdade Engenheiro Salvador Arena
-#Heitor Santos Ferreira - RA: 081230042
-#Engenharia de Computação - Quarto Semestre - EC4
-#Professor: Marco Aurélio
-#Disciplina: Eletrônica analógica
-
-#Lista de exercicios 01 - Exercicio 8#
-
 # 1. Criando função especifica para conversão dos valores do tipo string para valor inteiro
 # 1.1. Nomeando a função juntamente com seus parametros a serem definidos
 def conversorTextoParaInteiro(texto, verifica_numeros=True): # OBS 1.1. -> Os parametros a serem definidos nessa função competem ao texto que será fornecido, compreendido na variavel de nome 'texto', e outra variavel do tipo boleana que compete a verificação dos itens contidos na cadeia de texto que será digitada a fim de compreender se a mesma é ou não um digito númerico
